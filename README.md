@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GHosking-01
 - 👀 I’m interested in Genomics
-- 🌱 I’m currently learning how to implement Structural Variant calling for WGS data
+- 🌱 I’m currently learning how to predict neoantigens from fusion proteins :)
 
 <!---
 GHosking-01/GHosking-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
